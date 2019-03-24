@@ -9,7 +9,7 @@ import json
 
 url = "https://extreme-ip-lookup.com/json"
 gmail_user = 'XXX'              # change XXX with your gmail addres for sending mail
-gmail_pass = 'xxx'          # change xxx with your gmail pass for sending mail
+gmail_pass = 'xxx'          	# change xxx with your gmail pass for sending mail
 ip_inf = json.load(ureq.urlopen(url))
 new_body = []
 
