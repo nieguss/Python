@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IP Geolocation.iml" filepath="$PROJECT_DIR$/.idea/IP Geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wiadomosc.iml" filepath="$PROJECT_DIR$/.idea/wiadomosc.iml" />
     </modules>
   </component>
 </project>
